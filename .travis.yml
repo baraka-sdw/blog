@@ -6,7 +6,7 @@ install: go get -v github.com/gohugoio/hugo
 script: hugo --baseUrl="https://guiguzi21.github.io/"
 deploy:
     provider: pages
-    skip_cleanup: false
+    skip_cleanup: true
     github_token: $GITHUB_TOKEN
     on:
         branch: master
