@@ -39,7 +39,7 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa
 [menu]
   [[menu.main]]
     name = "Blog"
-    url = "/posts/"
+    url = "/post/"
     weight = 1
 
   [[menu.main]]
