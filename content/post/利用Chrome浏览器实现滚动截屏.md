@@ -1,11 +1,9 @@
 ---
 title: 利用Chrome浏览器实现滚动截屏
 date: 2018-05-24 09:07:47
-categories: Chrome
+categories: ["工具"]
 tags: ["工具"]      
-featured_image:
- - https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180524.jpg
- - https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180525.jpg
+featured_image: https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180524.jpg
 ---
 
 <p class="description">每日一句:It’s not about how badly you want something. It’s about what you are capable of! 

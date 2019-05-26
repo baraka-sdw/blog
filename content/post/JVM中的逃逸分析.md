@@ -1,12 +1,9 @@
 ---
 title: JVM中的逃逸分析
 date: 2018-06-08 23:39:33
-categories: JVM
+categories: ["JVM"]
 tags: ["逃逸分析"]
-featured_image:
- - https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180608.jpg
- - https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180609.jpg
- - https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180610.jpg
+featured_image: https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20180608.jpg
 ---
 
 <p class="description">A person who knows why to live can bear any how to live.－－Fredrick W. Nietzsche</p>
