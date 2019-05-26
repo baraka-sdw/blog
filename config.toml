@@ -8,12 +8,13 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa
 
 [params]
   author = "Baraka"
-  avatar = "/img/octocat.png" # optional
+  avatar = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
   #profile = "/img/octocat.png" # optional
-  cover = "/img/octocat.png" # optional
+  cover = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
   github = "guiguzi21" # optional
   linkedin = "宋德伟" # optional
-  favicon = "/img/favicon.ico"
+  favicon = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/favicon.ico
+"
   siteStartYear = 2018
   motto = "知足常乐 风清月明"
 
