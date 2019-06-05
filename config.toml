@@ -9,6 +9,9 @@ preserveTaxonomyNames = true
 MetaDataFormat = "toml"
 paginate = 10 # optional
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。'
+comment = true            # 是否开启评论
+toc = true                # 是否开启目录
+autoCollapseToc = true   # Auto expand and collapse toc
 
 [params]
   author = "Baraka"
@@ -61,3 +64,12 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa
       Email   = "guiguzisong@gmail.com"
       Wechat = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/WechatIMG2.jpeg"  # Wechat QRcode image
       Telegram = "SongDeWei"
+
+  # Gitalk 评论配置（gitalk 请参考：https://github.com/gitalk/gitalk）
+  [params.gitalk]
+      owner = "guiguzi21"   # Your GitHub ID
+      admin = "guiguzi21"      # GitHub repository owner and collaborators
+      repo = "guiguzi21.github.io"               # The repo to store comments
+      clientId = "aca3cfd7362cc2a1edbf"           # Your client ID
+      clientSecret = "157a41360e221c0e42aa7ac3ddc9b8c2322924d3"       # Your client secret
+      countSign = "条评论"
