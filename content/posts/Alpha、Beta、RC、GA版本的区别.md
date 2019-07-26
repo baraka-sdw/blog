@@ -1,6 +1,5 @@
 ---
 title: Alpha、Beta、RC、GA版本的区别
-date: 2019-07-2608:09:37+08:00
 date: 2019-07-26 08:00:31
 author: Baraka
 featured_image: https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20190726.jpg
