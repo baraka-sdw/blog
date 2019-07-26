@@ -1,7 +1,7 @@
 ---
 title: Java魔法类：Unsafe应用解析
 date: 2019-06-1923:09:37+08:00
-lastmod: 2019-06-19T23:09:37+08:00
+lastmod:
 author: Baraka
 featured_image: https://sdw-1254060699.cos.ap-chengdu.myqcloud.com/bing_photos/20190619.jpg
 categories: ["Java"]
