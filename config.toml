@@ -61,7 +61,7 @@ autoCollapseToc = true   # Auto expand and collapse toc
     weight = 4
   [[menu.main]]
     name = "Movie"
-    url = "/mpvie/"
+    url = "/movie/"
     weight = 5
  [params.social]
       GitHub = "guiguzi21"
