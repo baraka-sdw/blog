@@ -65,6 +65,11 @@ autoCollapseToc = true   # Auto expand and collapse toc
     url = "/movie/"
     weight = 5
     
+  [[menu.main]]
+    name = "Book"
+    url = "/book/"
+    weight = 6
+    
  [params.social]
       GitHub = "guiguzi21"
       Email   = "guiguzisong@gmail.com"
