@@ -1,5 +1,5 @@
 theme="LeaveIt"
-baseURL = "http://guiguzi21.github.io/"
+baseURL = "http://baraka-sdw.github.io/"
 languageCode = "zh-cn'"
 title = "Baraka的博客"
 enableEmoji = true
@@ -18,7 +18,7 @@ autoCollapseToc = true   # Auto expand and collapse toc
   avatar = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
   #profile = "/img/octocat.png" # optional
   cover = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
-  github = "guiguzi21" # optional
+  github = "baraka-sdw" # optional
   linkedin = "宋德伟" # optional
   favicon = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/favicon.ico"
   siteStartYear = 2018
@@ -41,46 +41,46 @@ autoCollapseToc = true   # Auto expand and collapse toc
     noreferrerLinks = true
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "归档"
     url = "/posts/"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
+    name = "分类"
     url = "/categories/"
     weight = 2
 
   [[menu.main]]
-    name = "Tags"
+    name = "标签"
     url = "/tags/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 4
 
   [[menu.main]]
-    name = "Movie"
+    name = "观影"
     url = "/movie/"
     weight = 5
-    
+
   [[menu.main]]
-    name = "Book"
+    name = "阅读"
     url = "/book/"
     weight = 6
-    
+
  [params.social]
-      GitHub = "guiguzi21"
+      GitHub = "baraka-sdw"
       Email   = "guiguzisong@gmail.com"
       Wechat = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/WechatIMG2.jpeg"  # Wechat QRcode image
       Telegram = "SongDeWei"
 
   # Gitalk 评论配置（gitalk 请参考：https://github.com/gitalk/gitalk）
   [params.gitalk]
-      owner = "guiguzi21"   # Your GitHub ID
-      admin = "guiguzi21"      # GitHub repository owner and collaborators
-      repo = "guiguzi21.github.io"               # The repo to store comments
+      owner = "baraka-sdw"   # Your GitHub ID
+      admin = "baraka-sdw"      # GitHub repository owner and collaborators
+      repo = "baraka-sdw.github.io"               # The repo to store comments
       clientId = "aca3cfd7362cc2a1edbf"           # Your client ID
       clientSecret = "157a41360e221c0e42aa7ac3ddc9b8c2322924d3"       # Your client secret
       countSign = "条评论"

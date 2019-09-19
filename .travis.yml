@@ -3,7 +3,7 @@ language: go
 git:
     depth: 1
 install: go get -v github.com/gohugoio/hugo
-script: hugo --baseUrl="https://guiguzi21.github.io/"
+script: hugo --baseUrl="https://baraka-sdw.github.io/"
 deploy:
     provider: pages
     skip_cleanup: true
@@ -11,8 +11,8 @@ deploy:
     on:
         branch: master
     local_dir: public
-    repo: guiguzi21/guiguzi21.github.io
+    repo: baraka-sdw/baraka-sdw.github.io
     fqdn: www.baraka.ink
     target_branch: master
     email: guiguzisong@gmail.com
-    name: guiguzi21
+    name: baraka-sdw
