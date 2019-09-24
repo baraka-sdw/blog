@@ -15,12 +15,12 @@ autoCollapseToc = true   # Auto expand and collapse toc
 
 [params]
   author = "Baraka"
-  avatar = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
+  avatar = "//sdw-1254060699.file.myqcloud.com/blog_img/octocat.png" # optional
   #profile = "/img/octocat.png" # optional
-  cover = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/octocat.png" # optional
+  cover = "//sdw-1254060699.file.myqcloud.com/blog_img/octocat.png" # optional
   github = "baraka-sdw" # optional
   linkedin = "宋德伟" # optional
-  favicon = "//sdw-1254060699.cos.ap-chengdu.myqcloud.com/blog/favicon.ico"
+  favicon = "//sdw-1254060699.file.myqcloud.com/blog_img/猫.ico"
   siteStartYear = 2018
   motto = "知足常乐 风清月明"
   cdn_url = ""           # Base CDN URL
